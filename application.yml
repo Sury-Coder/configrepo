@@ -1,4 +1,4 @@
 my:
-  greeting: Welcome to Spring boot Cloud Configuration Management
+  greeting: Welcome to Great Learning
   list:
    values: apple, banana, mango, cherry
