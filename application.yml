@@ -1,4 +1,4 @@
 my:
-  greeting: Welcome to Spring Cloud
+  greeting: Welcome to Surya
   list:
    values: apple, banana, mango, cherry
